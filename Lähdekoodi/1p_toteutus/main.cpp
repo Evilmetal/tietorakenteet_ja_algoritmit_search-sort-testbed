@@ -88,7 +88,7 @@ void do_choice(int choice)
         cout << "Choice " << choice << " not implemented." << endl;
         break;
     case 6:
-        cout << "Goodbye." << endl;
+        cout << "Quitting..." << endl;
         break;
     default:
         cout << "Please select a valid menu option." << endl;
